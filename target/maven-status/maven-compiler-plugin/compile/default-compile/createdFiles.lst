@@ -1,0 +1,5 @@
+com\example\app\HelloApplication.class
+com\example\rest\HelloRestService.class
+com\example\util\EntityManagerProducer.class
+com\example\dao\UserDao.class
+com\example\model\User.class
